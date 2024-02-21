@@ -30,3 +30,5 @@ COMING SOON
 
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-br/profile?gamertag=xMankrasz&rtc=1)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198880956224/)
+
+![Snake animation](https://github.com/wesleymoya/wesleymoya/blob/output/github-contribution-grid-snake.gif)
