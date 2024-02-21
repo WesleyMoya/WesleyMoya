@@ -1,16 +1,25 @@
-### Hi there 👋
+# Welcome to Wesley's Hub! 🎮
 
-<!--
-**WesleyMoya/WesleyMoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](banner.png)
 
-Here are some ideas to get you started:
+Hello! 👋 I'm Wesley Moya, an inspired gamer and developer. Welcome to my GitHub profile, where I share my appreciation for developing games, websites, and more...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm currently a student who loves to spend my free time thinking about new projects, especially game development. Whether it's exploring new worlds, analyzing game mechanics, or coding my own projects, I'm always immersed in the world of gaming.
+
+## My Best Projects
+
+COMING SOON
+
+...
+
+## Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wesley-leandro-moya-da-silva-86b79b233/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@xmankrasz)
+
+### Let's game together! 🚀
+
+[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](account.xbox.com/pt-br/profile?gamertag=xMankrasz)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198880956224/)
