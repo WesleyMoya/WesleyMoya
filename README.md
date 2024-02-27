@@ -14,6 +14,7 @@ I'm currently a student who loves to spend my free time thinking about new proje
 
 **Stats**:<br><br>
 ![WesleyMoya GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleymoya&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleymoya&hide_progress=true&theme=transparent)
 
 ## My Best Projects
 
